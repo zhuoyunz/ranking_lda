@@ -1,4 +1,7 @@
 # ranking_lda
 
-Enhanced Latent Dirichlet Allocation with topic re-ranked by Laplacian score. 
+This repo contains my code contribution to the PGM course project:
+
+Rank Search Results Based on Generality with LDA.
+
 
